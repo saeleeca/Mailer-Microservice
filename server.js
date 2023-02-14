@@ -1,3 +1,5 @@
+// Code heavily references and follows the tutorial of this repo https://github.com/victoria-lo/Nodemailer-Tutorial
+
 const express = require("express");
 const cors = require("cors");
 const nodemailer = require("nodemailer");
